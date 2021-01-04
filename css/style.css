@@ -1,0 +1,94 @@
+/* Main__Css */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size:16px;
+}
+
+/* Fast_Card_Design */
+
+.card_area{
+    margin:1rem auto;
+    width: 30rem;
+    height: auto;
+    padding:0.8rem;
+    border-radius: 0.3rem;
+    box-shadow: 5px 5px 10px 5px #ddd;
+}
+.card_image{
+    text-align:center;
+    background: #ddd;
+}
+.card_image img{
+    max-width: 100%;
+    height: 15rem;
+    border-radius:.3rem;
+}
+.card_informations{
+    margin-top: 1.2rem;
+}
+.card_informations_title{
+    font-size: 1.5rem;
+    margin-bottom:1.2rem;
+    text-transform: capitalize;
+}
+.card_information_paragraph{
+    font-size:.9rem;
+    align-items: justify;
+}
+.card_btn{
+    background:#264DE4;
+    border:none;
+    outline:none;
+    border-radius:.3rem;
+    margin-top: 1.2rem;
+    transition: .3s;
+}
+.card_btn:hover{
+    background: #E44D26;
+    transition: .3s;
+}
+.card_btn_link{
+    font-size:.8rem;
+    color:#fff;
+    display: inline-block;
+    padding:.4rem 12.2rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Secound_Card_Design */
+.card_image2{
+    text-align:center;
+    background: #ddd;
+    margin-top: 2.2rem;
+}
+.card_image2 img{
+    max-width: 100%;
+    height: 15rem;
+    border-radius:.3rem;
+}
+.card_btn2{
+    background:#E44D26;
+    border:none;
+    outline:none;
+    border-radius:.3rem;
+    margin-top: 1.2rem;
+    transition: .3s;
+}
+.card_btn2:hover{
+    background: #264DE4;
+    transition: .3s;
+}
+.card_btn_link2{
+    font-size:.8rem;
+    color:#fff;
+    display: inline-block;
+    padding:.4rem 12.2rem;
+    text-decoration: none;
+    cursor: pointer;
+}
