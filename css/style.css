@@ -22,6 +22,7 @@ body{
 .card_image{
     text-align:center;
     background: #ddd;
+    padding: 1.5rem 0rem;
 }
 .card_image img{
     max-width: 100%;
@@ -66,6 +67,7 @@ body{
     text-align:center;
     background: #ddd;
     margin-top: 2.2rem;
+    padding: 1.5rem 0rem;
 }
 .card_image2 img{
     max-width: 100%;
