@@ -46,7 +46,7 @@ body{
     border:none;
     outline:none;
     border-radius:.3rem;
-    margin-top: 1.2rem;
+    margin: 1.2rem 0rem 2.2rem 0rem; 
     transition: .3s;
 }
 .card_btn:hover{
@@ -66,7 +66,6 @@ body{
 .card_image2{
     text-align:center;
     background: #ddd;
-    margin-top: 2.2rem;
     padding: 1.5rem 0rem;
     border-radius: .3rem;
 }
@@ -79,7 +78,7 @@ body{
     border:none;
     outline:none;
     border-radius:.3rem;
-    margin-top: 1.2rem;
+    margin: 1.2rem 0rem 1.2rem 0rem; 
     transition: .3s;
 }
 .card_btn2:hover{
